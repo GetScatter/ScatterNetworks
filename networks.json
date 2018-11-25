@@ -1,0 +1,29 @@
+{  
+   "EOSIO":[
+      {
+        "name":"EOS Mainnet",
+        "host":"nodes.get-scatter.com",
+        "port":443,
+        "protocol":"https",
+        "chainId":"aca376f206b8fc25a6ed44dbdc66547c36c6c33e3a119ffbeaef943642f0e906"
+      }
+   ],
+   "Ethereum":[
+      {
+        "name":"Ethereum Mainnet",
+        "host":"ethnodes.get-scatter.com",
+        "port":443,
+        "protocol":"https",
+        "chainId":"1"
+      }
+   ],
+   "Tron":[
+      {
+        "name":"Tron Mainnet",
+        "host":"api.trongrid.io",
+        "port":443,
+        "protocol":"https",
+        "chainId":"1"
+      }
+   ]
+}
