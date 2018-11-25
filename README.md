@@ -35,4 +35,21 @@ A repository of networks/chains for use within Scatter
 ```
 
 
+## Custom System Tokens
 
+You can add a custom system token to your JSON entry as well if your chain doesn't run on the default one.
+
+```
+{
+  "name":"EOS Mainnet",
+  "host":"nodes.get-scatter.com",
+  "port":443,
+  "protocol":"https",
+  "chainId":"aca376f206b8fc25a6ed44dbdc66547c36c6c33e3a119ffbeaef943642f0e906",
+  "token":{
+    "symbol":"SYS",
+    "contract":"eosio.token",
+    "decimals":4
+  }
+}
+```
