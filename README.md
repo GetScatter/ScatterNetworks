@@ -9,7 +9,7 @@ A repository of networks/chains for use within Scatter
 
 ## Adding new Networks
 
-- Create a pull request adding your proxy to the correct blockchain in the "proxies.json" file. 
+- Create a pull request adding your network to the correct blockchain in the "networks.json" file. 
 - **Fill out all of the fields, they are all required.**
 
 ```
