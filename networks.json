@@ -18,6 +18,18 @@
           "contract":"eosio.token",
           "decimals":4
         }
+      },
+      {
+        "name":"Worbli Mainnet",
+        "host":"api.worbli.io",
+        "port":443,
+        "protocol":"https",
+        "chainId":"73647cde120091e0a4b85bced2f3cfdb3041e266cbbe95cee59b73235a1b3b6f",
+        "token":{
+          "symbol":"WBI",
+          "contract":"eosio.token",
+          "decimals":4
+        }
       }
    ],
    "Ethereum":[
