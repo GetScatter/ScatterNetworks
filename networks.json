@@ -56,6 +56,19 @@
           "contract": "eosio.token",
           "decimals": 4
         }
+      },
+      {
+        "name": "MEETONE Mainnet",
+        "host": "fullnode.meet.one",
+        "port": 443,
+        "protocol": "https",
+        "chainId": "cfe6486a83bad4962f232d48003b1824ab5665c36778141034d75e57b956e422",
+        "token":
+        {
+          "symbol": "MEETONE",
+          "contract": "eosio.token",
+          "decimals": 4
+        }
       }
    ],
    "Ethereum":[
