@@ -69,6 +69,18 @@
           "contract": "eosio.token",
           "decimals": 4
         }
+      },
+      {
+        "name": "SNAX Mainnet",
+        "host": "cdn.snax.one",
+        "port": 443,
+        "protocol": "https",
+        "chainId": "67a9375f5ac38e12b7d637632935a6ed3a25db460657bdfe4b7c3b9a536e8cbe",
+        "token": {
+          "symbol": "SNAX",
+          "contract": "snax.token",
+          "decimals": 4
+        }
       }
    ],
    "Ethereum":[
