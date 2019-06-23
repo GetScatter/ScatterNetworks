@@ -88,5 +88,14 @@
         "protocol":"https",
         "chainId":"1"
       }
+   ],
+   "Bitcoin":[
+      {
+         "name":"Bitcoin Mainnet",
+         "host":"btcnodes.get-scatter.com",
+         "port":443,
+         "protocol":"https",
+         "chainId":"1"
+      }
    ]
 }
