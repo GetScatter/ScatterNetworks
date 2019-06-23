@@ -92,7 +92,7 @@
    "Bitcoin":[
       {
          "name":"Bitcoin Mainnet",
-         "btcnodes.get-scatter.com",
+         "host":"btcnodes.get-scatter.com",
          "port":443,
          "protocol":"https",
          "chainId":"1"
