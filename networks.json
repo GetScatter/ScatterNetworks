@@ -9,8 +9,8 @@
       },
       {
         "name":"Europechain (XEC) Mainnet",
-        "host":"xec.cryptolions.io",
-        "port":9876,
+        "host":"api.xec.cryptolions.io",
+        "port":443,
         "protocol":"https",
         "chainId":"f778f7d2f124b110e0a71245b310c1d0ac1a0edd21f131c5ecb2e2bc03e8fe2e",
         "token":{
