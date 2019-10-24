@@ -8,6 +8,18 @@
         "chainId":"aca376f206b8fc25a6ed44dbdc66547c36c6c33e3a119ffbeaef943642f0e906"
       },
       {
+        "name":"Europechain (XEC) Mainnet",
+        "host":"api.xec.cryptolions.io",
+        "port":443,
+        "protocol":"https",
+        "chainId":"f778f7d2f124b110e0a71245b310c1d0ac1a0edd21f131c5ecb2e2bc03e8fe2e",
+        "token":{
+          "symbol":"XEC",
+          "contract":"eosio.token",
+          "decimals":4
+        }
+      },
+      {
         "name":"WAX Blockchain",
         "host":"chain.wax.io",
         "port":443,
