@@ -8,6 +8,18 @@
         "chainId":"aca376f206b8fc25a6ed44dbdc66547c36c6c33e3a119ffbeaef943642f0e906"
       },
       {
+        "name":"LEDGIS Mainnet",
+        "host":"api.ledgis.io",
+        "port":443,
+        "protocol":"https",
+        "chainId":"82bfaabcf3a1c3741ac3a6d25f23f5d9eb00be243406f7e9eba87e2bd8aee5c5",
+        "token":{
+          "symbol":"LED",
+          "contract":"led.token",
+          "decimals":4
+        }
+      },
+      {
         "name":"Europechain (XEC) Mainnet",
         "host":"api.xec.cryptolions.io",
         "port":443,
